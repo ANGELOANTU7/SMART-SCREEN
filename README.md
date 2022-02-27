@@ -49,4 +49,5 @@ Easy completion of notes.
 Ease in reading pdf, and text.
 ![image](https://user-images.githubusercontent.com/94218410/155865473-f2bf91de-2c55-42d9-aecb-aa2615b65e55.png)
 
+![video](https://drive.google.com/file/d/1mYFj3EFHai81ik4R1o_05Z4FLGY4tp1I/view?usp=sharing)
 
